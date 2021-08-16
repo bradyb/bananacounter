@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  text-align: center;
+  font-size: 48px;
+}
+
+.banana {
+  width: 50%;
+  height: 50%;
+}
